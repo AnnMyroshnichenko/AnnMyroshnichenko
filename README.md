@@ -15,72 +15,99 @@ const anna = {
   name: "Anna",
   role: "Trainee QA Engineer",
   location: "Ukraine",
+
   interests: [
     "Manual Testing",
     "Web Testing",
     "JavaScript",
     "Test Automation"
   ],
+
   strengths: [
     "Attention to detail",
     "Responsible and organized",
     "Quick learner"
   ],
+
   currentlyLearning: [
     "API Testing",
     "Test Automation",
     "Advanced SQL",
     "Performance Testing"
   ],
+
   goal: "Become a Junior QA Engineer within 6–12 months"
 };
 ```
 ---
 
-## 🛠 QA Toolbox
+## 🛠 Skills
 
-### Testing
+### Manual Testing
+I can: 
+- Understand software requirements and convert them into test scenarios    
+- Identify defects and verify fixes  
+- Test different user flows from an end-user perspective  
 
-![STLC](https://img.shields.io/badge/STLC-0078D7?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-0078D7?style=for-the-badge)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-success?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-critical?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test_Cases-blue?style=for-the-badge)
-![Checklists](https://img.shields.io/badge/Checklists-blueviolet?style=for-the-badge)
+### Bug Reporting
+I can: 
+- Write clear and structured bug reports  
+- Include steps to reproduce, expected vs actual results  
+- Attach screenshots, logs, and additional evidence when needed  
 
-### Tools & Technologies
+### Test Case Design
+I can: 
+- Design positive, negative, and edge case scenarios  
+- Ensure test coverage for critical functionalities  
+- Organize test cases in a structured format (Excel / Test management tools)   
 
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### DevTools
+I can: 
+- Inspect HTML/CSS structure of web pages  
+- Debug frontend issues using console logs  
+- Monitor network requests and API responses   
 
-### Technical Knowledge
+### SQL
+I can:
+- Write SELECT queries to retrieve data    
+- Work with aggregate functions (COUNT, SUM, AVG, MIN, MAX) 
+- Join data from multiple tables using INNER JOIN, LEFT JOIN, and RIGHT JOIN
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Git / GitHub
+I can:
+- Clone and manage repositories  
+- Track changes using commits  
+- Work with branches for version control  
+
+### JavaScript 
+I can:
+- Work with arrays, objects, destructuring, and template literals
+- Understand variables, data types, operators, and control flow
+- Work with arrays and objects using methods such as `map()`, `filter()`, `find()`, and `reduce()` 
+
+### HTML, CSS 
+I can:
+- Understand page structure and layout  
+- Identify UI issues related to styling  
+- Inspect elements in browser DevTools  
+- Support UI testing with basic frontend knowledge  
 
 ---
 
 ## 🌱 Currently Learning
-
-```text
-✔ Manual Testing
-✔ Test Design Techniques
-✔ STLC & SDLC
-✔ SQL
-✔ Git & GitHub
-
-🔄 API Testing (Postman)
-🔄 Test Automation
-🔄 CI/CD
-🔄 Advanced SQL
-🔄 Performance Testing
 ```
+- ✔ Manual Testing
+- ✔ Test Design Techniques
+- ✔ STLC & SDLC
+- ✔ SQL
+- ✔ Git & GitHub
 
+- ☐ API Testing (Postman)
+- ☐ Test Automation
+- ☐ CI/CD
+- ☐ Advanced SQL
+- ☐ Performance Testing
+```
 ---
 
 ## 📊 GitHub Statistics
@@ -95,15 +122,6 @@ const anna = {
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnnMyroshnichenko&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
