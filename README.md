@@ -9,121 +9,71 @@
 ---
 
 ## 💫 About Me
+I'm a recent Software Engineering graduate with a deep passion for Software Quality Assurance.
 
-```js
-const anna = {
-  name: "Anna",
-  role: "Trainee QA Engineer",
-  location: "Ukraine",
+I graduated in 2026 with a Bachelor's Degree in Software Engineering from Dnipro University of Technology. Throughout my academic journey, I developed a strong interest in ensuring software quality. I realized that great software is not only about writing code but also about delivering stable, user-friendly products that users can trust. This realization guided me to specialize in QA and testing.
 
-  interests: [
-    "Manual Testing",
-    "Web Testing",
-    "JavaScript",
-    "Test Automation"
-  ],
-
-  strengths: [
-    "Attention to detail",
-    "Responsible and organized",
-    "Quick learner"
-  ],
-
-  currentlyLearning: [
-    "API Testing",
-    "Test Automation",
-    "Advanced SQL",
-    "Performance Testing"
-  ],
-
-  goal: "Become a Junior QA Engineer within 6–12 months"
-};
-```
 ---
 
-## 🛠 Skills
+## 🎓 Education & Learning Journey
+My university curriculum gave me a solid foundation in software development, algorithms, and agile methodologies. I particularly excelled in courses related to Software Testing and Databases. Beyond academics, I actively self-studied modern testing tools and frameworks through online resources, documentation, and hands-on projects.
 
-### Manual Testing
-I can: 
-- Understand software requirements and convert them into test scenarios    
-- Identify defects and verify fixes  
-- Test different user flows from an end-user perspective  
+---
 
-### Bug Reporting
-I can: 
-- Write clear and structured bug reports  
-- Include steps to reproduce, expected vs actual results  
-- Attach screenshots, logs, and additional evidence when needed  
+## 🛠️ Technical Skills
+- **Manual Testing**: Experience with functional, smoke, sanity and exploratory testing techniques.
+- **Automation Testing**: Familiar with WebDriverIO framework.
+- **Programming**: JavaScript, C#, and SQL for database testing.
+- **Tools**: Git/GitHub.
+- **Methodologies**: Agile, Scrum, Kanban.
+---
 
-### Test Case Design
-I can: 
-- Design positive, negative, and edge case scenarios  
-- Ensure test coverage for critical functionalities  
-- Organize test cases in a structured format (Excel / Test management tools)   
+## 📜 Certifications & Courses
+I continuously invest in my professional development through certifications and courses:
 
-### DevTools
-I can: 
-- Inspect HTML/CSS structure of web pages  
-- Debug frontend issues using console logs  
-- Monitor network requests and API responses   
-
-### SQL
-I can:
-- Write SELECT queries to retrieve data    
-- Work with aggregate functions (COUNT, SUM, AVG, MIN, MAX) 
-- Join data from multiple tables using INNER JOIN, LEFT JOIN, and RIGHT JOIN
-
-### Git / GitHub
-I can:
-- Clone and manage repositories  
-- Track changes using commits  
-- Work with branches for version control  
-
-### JavaScript 
-I can:
-- Work with arrays, objects, destructuring, and template literals
-- Understand variables, data types, operators, and control flow
-- Work with arrays and objects using methods such as `map()`, `filter()`, `find()`, and `reduce()` 
-
-### HTML, CSS 
-I can:
-- Understand page structure and layout  
-- Identify UI issues related to styling  
-- Inspect elements in browser DevTools  
-- Support UI testing with basic frontend knowledge  
+- **JavaScript Essentials 1** — Cisco Networking Academy (Issued Jun 2026)
+- **MySQL Essential** — ITVDN (Issued Apr 2026)
+- **Основи тестування програмного забезпечення** (Fundamentals of Software Testing) — Prometheus (Issued Apr 2026)
+- **Programming Foundations: Design Patterns** — LinkedIn Learning (Issued Dec 2025)
+- **The Fundamentals of Software Testing** — QATestLab Training Center (Issued Nov 2023)
+- **Software Processes and Agile Practices** — Coursera (Issued May 2023)
 
 ---
 
 ## 🌱 Currently Learning
-```
 - ✔ Manual Testing
 - ✔ Test Design Techniques
 - ✔ STLC & SDLC
 - ✔ SQL
 - ✔ Git & GitHub
-
-- ☐ API Testing (Postman)
+- ☐ API Testing
 - ☐ Test Automation
 - ☐ CI/CD
 - ☐ Advanced SQL
 - ☐ Performance Testing
-```
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnMyroshnichenko&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnMyroshnichenko&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
+## 🎯 Career Goals
+- Short-term: Secure a Junior QA Engineer role and gain real-world experience.
+- Mid-term: Specialize in test automation and contribute to quality process improvement.
+- Long-term: Grow into a Senior QA Engineer.
 
-## 🤝 Connect With Me
+---
+
+## 🏞️ Beyond Tech
+
+I’m particularly passionate about pole sports. It’s a dynamic discipline that builds strength, flexibility, coordination, and mental focus. I regularly practice yoga and stretching, as well.
+
+Reading is one of my favorite hobbies. I enjoy books across different genres, including personal development, psychology and productivity. 
+
+I’m also committed to continuously improving my English. I practice daily through a combination of listening to audiobooks, reading articles and books, and using language learning apps.
+
+---
+
+## 📬 Let's Connect!
+
+Whether you have open positions, advice, or just want to discuss testing trends, feel free to reach out!
 
 📧 Email: **annmyroshnichenko@gmail.com**
 
